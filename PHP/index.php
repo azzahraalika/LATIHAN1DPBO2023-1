@@ -1,5 +1,3 @@
-<!-- Saya Raisyad Jullfikar NIM 2106238 mengerjakan Latihan 1 dalam mata kuliah Desain dan Pemrograman Berorientasi  -->
-<!-- Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. -->
 <?php
 // Import File
   require('Mahasiswa.php');
