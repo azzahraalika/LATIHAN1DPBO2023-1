@@ -29,6 +29,7 @@ Pada class 'Crud' juga sama, namun bedanya hanya digunakan untuk pemrosesan data
 Alur program pada code setiap bahasa yang saya buat kurang lebih sama, kecuali pada bahasa PHP yang mana inputan serta proses dilakukan secara hardcode. Kemudian pada program selain PHP, tampilannya berupa menu.
 
 Pertama - tama, ketika menjalankan program 'Java, 'C++' dan 'Python', pengguna dapat melihat/memilih menu 1 - 4 untuk menjalankan sebuah perintah yang mana sebagai berikut :
+
 <img width="212" alt="SS_GITHUB1" src="https://user-images.githubusercontent.com/92106283/218761834-7b0d43b8-a0d5-43d8-8740-5b1b26375854.png">
 
 1. Jika user memilih menu 1, maka user diharuskan menginputkan beberapa data 'Nim', 'nama', 'jurusan', dan 'fakultas'. Pada penginputan data, terdapat error handling yang mana, ketika user menginputkan data dan data tersebut sudah ada dalam data terinput, maka data yang user inputkan tidak akan termasukkan kedalam list.
